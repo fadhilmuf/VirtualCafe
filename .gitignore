@@ -10,7 +10,14 @@
 [Ll]ogs/
 [Mm]emoryCaptures/
 3D/
-
+TextMesh Pro/
+SlimUI/
+Resources/
+SamplesResources/
+Common/
+Editor/
+Music/
+Packages/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta

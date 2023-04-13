@@ -6,9 +6,24 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Menuawal.unity
+    guid: 6891cff1a604278408e5fcc162883c8f
+  - enabled: 1
     path: Assets/Scenes/Homepage.unity
     guid: 527829f8966ddc541aed078426dcdefc
   - enabled: 1
-    path: Assets/Scenes/Main.unity
-    guid: e150187d559fe9c4295c319b8416ea66
+    path: Assets/Scenes/Mapbaru.unity
+    guid: 19ad07e10f3cba346974eae494664fa0
+  - enabled: 1
+    path: Assets/Scenes/HomepageAR.unity
+    guid: abab7db364af4d54e88a2f36be7c91c4
+  - enabled: 1
+    path: Assets/Scenes/Burger.unity
+    guid: c2470acc78ce48e41a8ee75841f22e63
+  - enabled: 1
+    path: Assets/Scenes/Cola.unity
+    guid: 78d43647ccd374b4b855da0fbb666665
+  - enabled: 1
+    path: Assets/Scenes/Coffee.unity
+    guid: 4f13fc773dcf7464d9739ed80f40d499
   m_configObjects: {}
