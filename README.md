@@ -10,6 +10,8 @@ So come on in and join us for a cup of coffee in this virtual oasis, created wit
 
 ![cafe-inside](https://user-images.githubusercontent.com/112771091/230767555-995e3b60-8921-4bb1-9bdf-074721e9a917.png)
 
-![luar](https://user-images.githubusercontent.com/112771091/230767591-a2f14ec9-2c54-4174-a015-6d3b0edbb5bf.png)
+![metaverse 7](https://user-images.githubusercontent.com/112771091/231757288-b73206c3-63c5-4775-a85d-5613cbb17e80.png)
 
-![kasir](https://user-images.githubusercontent.com/112771091/230767597-dd5d4af4-804b-4ca2-b4a8-dfbbb4017dbf.png)
+![metaverse 8](https://user-images.githubusercontent.com/112771091/231757329-6b13209a-b17a-4f06-8c20-0db8b0aa6809.png)
+
+
