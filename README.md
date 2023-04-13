@@ -14,4 +14,8 @@ So come on in and join us for a cup of coffee in this virtual oasis, created wit
 
 ![metaverse 8](https://user-images.githubusercontent.com/112771091/231757329-6b13209a-b17a-4f06-8c20-0db8b0aa6809.png)
 
+![AR3](https://user-images.githubusercontent.com/112771091/231758083-3ce0441b-04db-4d78-8be9-dc7606dbb848.png)
 
+![landingpage1](https://user-images.githubusercontent.com/112771091/231758133-f9d874e8-cc42-4552-b996-fdf62fa0c649.png)
+
+![landingpage2](https://user-images.githubusercontent.com/112771091/231758148-a2acc74f-466e-4e7e-af29-45039fa79a34.png)
