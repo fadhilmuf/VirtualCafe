@@ -10,7 +10,7 @@ EditorBuildSettings:
     guid: 6891cff1a604278408e5fcc162883c8f
   - enabled: 1
     path: Assets/Scenes/Homepage.unity
-    guid: 527829f8966ddc541aed078426dcdefc
+    guid: 2ed93f069cba4e34eab6385fb8c88703
   - enabled: 1
     path: Assets/Scenes/Mapbaru.unity
     guid: 19ad07e10f3cba346974eae494664fa0

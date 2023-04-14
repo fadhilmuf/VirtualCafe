@@ -7,8 +7,6 @@ public class movement : MonoBehaviour
     public float moveSpeed = 10f;
     public float run;
     float rotation = 50f;
-    public static movement instance;
-    public string areaTransition;
 
     // Start is called before the first frame update
     void Start()
